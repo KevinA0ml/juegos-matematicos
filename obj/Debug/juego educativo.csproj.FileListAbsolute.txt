@@ -1,0 +1,16 @@
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego educativo.csproj.AssemblyReference.cache
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego educativo.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego_educativo.login.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego_educativo.Form2.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego_educativo.nivel_primario.frmdivision.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego_educativo.nivel_primario.frmmultiplicacion.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego_educativo.nivel_primario.frmresta.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego_educativo.nivel_primario.frmsuma.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego educativo.csproj.GenerateResource.cache
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\juego educativo.csproj.CoreCompileInputs.cache
+D:\Users\Kevin\Documentos\c# projects\juego educativo\bin\Debug\Proyecto1.exe.config
+D:\Users\Kevin\Documentos\c# projects\juego educativo\bin\Debug\Proyecto1.exe
+D:\Users\Kevin\Documentos\c# projects\juego educativo\bin\Debug\Proyecto1.pdb
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\Proyecto1.Properties.Resources.resources
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\Proyecto1.exe
+D:\Users\Kevin\Documentos\c# projects\juego educativo\obj\Debug\Proyecto1.pdb

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_circulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_derivada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_division.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_ecua1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_ecua3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_fgeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_multiplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_pendiente2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_pitagoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_resta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help\h_suma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivelMedio\frmpend2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivelMedio\frmpendiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivelMedio\frm_pitagoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivelMedio\Geometria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nivel_avanzado\Derivada de una ecuacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nivel_avanzado\ecuaciones_1erG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nivel_avanzado\ecuaciones_3incog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nivel_avanzado\Formula_Gen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivel_primario\frmdivision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivel_primario\frmmultiplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivel_primario\frmresta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nivel_primario\frmsuma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="punteo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
